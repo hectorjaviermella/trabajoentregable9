@@ -1,0 +1,41 @@
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+debug: GET en /api/sessions/logout - 6/19/2023 - 6:24:45 PM
+debug: GET en / - 6/19/2023 - 6:24:47 PM
+debug: GET en /api/sessions/github - 6/19/2023 - 6:24:48 PM
+debug: GET en /api/sessions/githubcallback?code=bad880e758b2d0964724 - 6/19/2023 - 6:24:48 PM
+debug: GET en /products - 6/19/2023 - 6:24:49 PM
+debug: Entro al getProducts
+debug: GET en /loggerTest - 6/19/2023 - 6:24:58 PM
+debug: This is a debug log
+http: This is an HTTP log
+info: This is an info log
+debug: Server runing at port 8080
+info: GET en /api/sessions/logout - 6/19/2023
+info: GET en / - 6/19/2023
+info: GET en /api/sessions/github - 6/19/2023
+info: GET en /api/sessions/githubcallback?code=ac62b8b40ab7b52fd3ba - 6/19/2023
+info: GET en /products - 6/19/2023
+debug: Entro al getProducts
+info: GET en /loggerTest - 6/19/2023
+debug: This is a debug log
+http: This is an HTTP log
+info: This is an info log
+debug: Server runing at port 8080
+debug: Server runing at port 8080
+info: GET en /api/sessions/logout - 6/19/2023
+info: GET en / - 6/19/2023
+info: POST en /api/sessions/login - 6/19/2023
+info: GET en /products - 6/19/2023
+debug: Entro al getProducts
+info: GET en /loggerTest - 6/19/2023
+debug: This is a debug log
+http: This is an HTTP log
+info: This is an info log
+debug: Server runing at port 8080
+info: GET en /api/sessions/logout - 6/19/2023
+info: GET en / - 6/19/2023
+info: GET en /api/sessions/github - 6/19/2023
+info: GET en /api/sessions/githubcallback?code=7c630526a73be0c7dbf0 - 6/19/2023
+info: GET en /products - 6/19/2023
+debug: Entro al getProducts
